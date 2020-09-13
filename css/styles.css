@@ -61,8 +61,8 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
-    color: blue;
+    background: #3339A2;
+    color: white;
     font-weight: bold;
 }
 
